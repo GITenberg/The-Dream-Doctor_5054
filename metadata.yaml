@@ -1,0 +1,34 @@
+_repo: The-Dream-Doctor_5054
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reeve, Arthur B. (Arthur Benjamin)
+    alias: Reeve, Arthur Benjamin
+    birthdate: 1880
+    deathdate: 1936
+    gutenberg_agent_id: '752'
+    url: http://www.gutenberg.org/2009/agents/752
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_B._Reeve
+description: Cover -- Contents.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Chemistry teachers -- Fiction'
+- !lcsh 'Detective and mystery stories, American'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- GITenberg
+tableOfContents: The dream doctor -- The soul analysis -- The sybarite -- The beauty
+  shop -- The phantom circuit -- The detectaphone -- The green curse -- The mummy
+  case -- The elixir of life -- The toxin of death -- The opium joint -- The "dope
+  trust" -- The kleptomaniac -- The crimeometer -- The vampire -- The blood test --
+  The bomb maker -- The "coke" fiend -- The submarine mystery -- The wireless detector
+  -- The ghouls -- The x-ray "movies" -- The death house -- The final day.
+title: The Dream Doctor
+url: http://www.gutenberg.org/ebooks/5054
